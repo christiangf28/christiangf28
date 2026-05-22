@@ -55,6 +55,6 @@ Web platform for hospital directors and managers. Predicts length of stay (LOS),
 
 ## Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-guajardo-farías-899790175)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-guajardo-farias-899790175)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:christiangf28@gmail.com)
 [![Location](https://img.shields.io/badge/Santiago,_Chile-gray?style=flat&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Santiago,Chile)
