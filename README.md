@@ -82,6 +82,14 @@ Google Data Analytics · Google Cybersecurity · Python (2025–2026) · AHA ACL
 
 ---
 
+## Publications
+
+**[The State of Digital Health Education in a Nursing Program, Maule Region, Chile: A Case Study](https://doi.org/10.5281/zenodo.21384062)** — Master's Thesis, Deggendorf Institute of Technology *(Jul 2025)*
+
+Case study examining how digital health competencies are taught, adopted and applied within a Chilean nursing program, identifying curriculum gaps and opportunities to strengthen digital health training in LATAM nursing education.
+
+---
+
 ## Get in touch
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-christiangf28.github.io-black?style=flat&logo=githubpages&logoColor=white)](https://christiangf28.github.io)
